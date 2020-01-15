@@ -1,0 +1,11 @@
+c:\Users\WINDOWS 8.1\Music\Proyecto4\bin\Debug\netcoreapp3.0\Proyecto4.exe
+c:\Users\WINDOWS 8.1\Music\Proyecto4\bin\Debug\netcoreapp3.0\Proyecto4.deps.json
+c:\Users\WINDOWS 8.1\Music\Proyecto4\bin\Debug\netcoreapp3.0\Proyecto4.runtimeconfig.json
+c:\Users\WINDOWS 8.1\Music\Proyecto4\bin\Debug\netcoreapp3.0\Proyecto4.runtimeconfig.dev.json
+c:\Users\WINDOWS 8.1\Music\Proyecto4\bin\Debug\netcoreapp3.0\Proyecto4.dll
+c:\Users\WINDOWS 8.1\Music\Proyecto4\bin\Debug\netcoreapp3.0\Proyecto4.pdb
+c:\Users\WINDOWS 8.1\Music\Proyecto4\obj\Debug\netcoreapp3.0\Proyecto4.csprojAssemblyReference.cache
+c:\Users\WINDOWS 8.1\Music\Proyecto4\obj\Debug\netcoreapp3.0\Proyecto4.AssemblyInfoInputs.cache
+c:\Users\WINDOWS 8.1\Music\Proyecto4\obj\Debug\netcoreapp3.0\Proyecto4.AssemblyInfo.cs
+c:\Users\WINDOWS 8.1\Music\Proyecto4\obj\Debug\netcoreapp3.0\Proyecto4.dll
+c:\Users\WINDOWS 8.1\Music\Proyecto4\obj\Debug\netcoreapp3.0\Proyecto4.pdb
